@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [INGLab][lab] in Sungkyunkwan University
 - 🌱 I’m Studying about NLP Story Generation and Story Understanding
 - 📫 How to reach me: Sybae01@naver.com / Sybae41845252@gmail.com
+- 📝 My personal notion page : [Notion][notion]
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -15,3 +16,4 @@
 [![BaeSuyoung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSuyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/BaeSuyoung)
 
 [lab]: https://inglab.github.io/index.html
+[notion]: https://www.notion.so/Studying-ba4c9dbcb2a843c082fc35822b6037e5
