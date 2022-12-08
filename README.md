@@ -10,10 +10,6 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 
-![BaeSuyoung's github stats](https://github-readme-stats.vercel.app/api?username=BaeSuyoung&show_icons=true)
-
-[![BaeSuyoung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSuyoung&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/BaeSuyoung)
-
 [lab]: https://inglab.github.io/index.html
 [notion]: https://www.notion.so/Studying-ba4c9dbcb2a843c082fc35822b6037e5
 [project]: [BaeSuyoung/Suyoung Projects.pdf](https://github.com/BaeSuyoung/BaeSuyoung/blob/main/Suyoung%20Projects.pdf)
