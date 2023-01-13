@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [INGLab][lab] in Sungkyunkwan University
 - 🌱 I’m Studying about NLP Story Generation and Story Understanding
-- Project Overview: [BaeSuyoung/Suyoung Projects.pdf](https://github.com/BaeSuyoung/BaeSuyoung/blob/main/Suyoung%20Projects.pdf)
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
