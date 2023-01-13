@@ -11,4 +11,3 @@
 
 [lab]: https://inglab.github.io/index.html
 [notion]: https://www.notion.so/Studying-ba4c9dbcb2a843c082fc35822b6037e5
-[project]: [BaeSuyoung/Suyoung Projects.pdf](https://github.com/BaeSuyoung/BaeSuyoung/blob/main/Suyoung%20Projects.pdf)
